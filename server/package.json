@@ -1,0 +1,10 @@
+{
+  "name": "Partz.js",
+  "version": "0.0.1",
+  "description": "Break a big file into smaller manageable files that are able to be paused and resumed.",
+  "dependencies": {
+    "socket.io": "~1.1.0",
+    "express": "~4.9.8",
+    "node-static": "~0.7.6"
+  }
+}
